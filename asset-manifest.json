@@ -1,9 +1,11 @@
 {
-  "main.css": "static/css/main.7c61f5d9.css",
-  "main.css.map": "static/css/main.7c61f5d9.css.map",
-  "main.js": "static/js/main.1f85fbcb.js",
-  "main.js.map": "static/js/main.1f85fbcb.js.map",
-  "static\\media\\background.jpg": "static/media/background.0d533a83.jpg",
-  "static\\media\\greenfuz.ttf": "static/media/greenfuz.0916e987.ttf",
-  "static\\media\\handwriting.TTF": "static/media/handwriting.4adf5735.TTF"
+  "main.css": "static/css/main.72c88ba7.css",
+  "main.css.map": "static/css/main.72c88ba7.css.map",
+  "main.js": "static/js/main.01c65522.js",
+  "main.js.map": "static/js/main.01c65522.js.map",
+  "static/media/background.jpg": "static/media/background.0d533a83.jpg",
+  "static/media/getSchwifty.ttf": "static/media/getSchwifty.4b4420cf.ttf",
+  "static/media/handwriting.TTF": "static/media/handwriting.4adf5735.TTF",
+  "static/media/morty.ttf": "static/media/morty.c8f1fe23.ttf",
+  "static/media/rick.ttf": "static/media/rick.1801a369.ttf"
 }
